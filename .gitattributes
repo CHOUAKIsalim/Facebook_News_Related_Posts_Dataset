@@ -1,0 +1,4 @@
+algorithmic_posts.zip filter=lfs diff=lfs merge=lfs -text
+targeted_posts.zip filter=lfs diff=lfs merge=lfs -text
+selective_posts.zip filter=lfs diff=lfs merge=lfs -text
+incidental_posts.zip filter=lfs diff=lfs merge=lfs -text
